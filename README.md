@@ -3,6 +3,8 @@ ExpressionEvaluator
 
 An expression evaluator project using Shunting Yard Algorithm
 
+You can find a description of the project [here](https://unnikked.ga/the-shunting-yard-algorithm)
+
 ## How to use
 
 Clone the repository with: 
